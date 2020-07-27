@@ -1,0 +1,1 @@
+We use Dota as a testbed for general-purpose AI systems which start to capture the messiness and continuous nature of the real world, such as teamwork, long time horizons, and hidden information. Our Dota training system showed that current AI algorithms can learn long-term planning with large but achievable scale.
